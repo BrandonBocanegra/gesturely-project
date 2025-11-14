@@ -64,7 +64,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   ),                       // ADD THESE LINES
                 );                         // ADD THESE LINES
               },                           // ADD THESE LINES
-              child: const Text('Go to Loading Screen'),  // ADD THESE LINES
+              child: const Text('Start'),  // ADD THESE LINES
             ),                             // ADD THESE LINES
           ],
         ),
